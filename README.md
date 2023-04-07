@@ -1,4 +1,4 @@
-## Navigation Bar Web
+## Sidebar Web with modal
 
 ### Description
 
